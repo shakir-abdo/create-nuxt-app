@@ -42,16 +42,12 @@
       "groupName": "webdriverio packages"
     },
     {
-      "matchPackagePatterns": ["^@oruga-ui"],
+      "matchPackageNames": ["@oruga-ui/oruga"],
       "groupName": "oruga packages"
     },
     {
       "matchPackageNames": ["nightwatch", "chromedriver"],
       "groupName": "nightwatch packages"
-    },
-    {
-      "matchPackageNames": ["boxicons", "vuesax"],
-      "groupName": "vuesax packages"
     }
   ]
 }

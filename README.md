@@ -51,7 +51,6 @@ yarn create nuxt-app <my-project>
     - [Windi CSS](https://github.com/windicss/windicss)
     - [Vant](https://github.com/youzan/vant)
     - [View UI](https://www.iviewui.com/)
-    - [Vuesax](https://github.com/lusaxweb/vuesax)
     - [Vuetify](https://github.com/vuetifyjs/vuetify)
 1. Nuxt.js modules:
     - [Axios - Promise based HTTP client](https://github.com/nuxt-community/axios-module)
@@ -79,7 +78,7 @@ yarn create nuxt-app <my-project>
     - [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig)
     - [Semantic PR](https://probot.github.io/apps/semantic-pull-requests/)
     - [Dependabot (for GitHub only)](https://dependabot.com/)
-1. Continous Integration
+1. Continuous Integration
     - [GitHub Actions](https://github.com/features/actions)
     - [Travis CI](https://travis-ci.com)
     - [CircleCI](https://circleci.com)
@@ -123,6 +122,10 @@ Show debug logs
 ### `--version`
 
 Alias: `-v`. Show version number and exit.
+
+### `--overwrite-dir`
+
+Overwrite the target directory.
 
 ## Credits
 
